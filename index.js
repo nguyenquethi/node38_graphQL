@@ -39,3 +39,5 @@ app.use("/graph", graphqlHTTP({
 app.listen(8081, () => {
     console.log("BE start");
 });
+
+// commit A3
